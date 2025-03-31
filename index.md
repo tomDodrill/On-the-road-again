@@ -4,12 +4,11 @@
 # between the top bar and the list of recent posts.
 #
 layout: home
-title: Jekyll Website Template
+title: Karen and Tom's Travel Blog 
 list_title: 
 ---
 
-# Welcome to the Jekyll-based Website Template!
+# Welcome to Karen and Toms' Blog Site!
 
-This is a Jekyll template is designed to help you quickly launch a Jekyll-powered blog hosted with GitHub Pages. Whether you’re new to Jekyll or looking for just a solid starting point, this template provides a simple and flexible foundation. It includes sample posts, built-in tagging for easy content filtering, and a simple layout that you can customize to fit your needs.
+This is our travel blog for you to follow us as we travel.  Rather than using Facebook or Instagram, we want to tell our story to a limited audiance,  Please take a look and let us know how you like it and what we can add. 
 
-Jekyll makes it easy to write and organize content using Markdown, while GitHub Pages provides free and reliable hosting. With this template, you can focus on creating great content without worrying about complex setup. Simply clone, customize, and start blogging today!
