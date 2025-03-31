@@ -8,4 +8,4 @@ author: Tom Dodrill
 
 Flying to EWR - eventaully to Sean's.  We are leaving Savannah International at 5:30PM to land in Newark at 7:30.
 
-For route info https://www.flightaware.com/
+For route info [Flght Aware](https://www.flightaware.com)
